@@ -3,7 +3,7 @@ const statustxt = document.querySelector('#status')
 const btnrestart = document.querySelector('#restart')
 
 
-let x = "<img src='images/x.png'>"
+let x = "<img src='images/X.png'>"
 let o = "<img src='images/O.png'>"
 
 const win = [
